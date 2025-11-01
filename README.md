@@ -309,7 +309,7 @@ For support and questions:
 
 ## Acknowledgments
 
-- Built with [v0.app](https://v0.dev) - AI-powered design tool
+- Built with [.app](https://.dev) - AI-powered design tool
 - Powered by [Optimism](https://www.optimism.io/) - Ethereum L2 scaling solution
 - UI components from [shadcn/ui](https://ui.shadcn.com/)
 - Analytics by [Vercel](https://vercel.com/analytics)
